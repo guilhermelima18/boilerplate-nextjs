@@ -12,6 +12,7 @@
 /.next/
 /.vscode/
 /.husky/
+/.jest/
 /out/
 
 # production
